@@ -1,4 +1,4 @@
-print("""¡Hola! Este es el clásico juego de piedra, papel o tijera.""")
+print('¡Hola! Este es el clásico juego de piedra, papel o tijera.')
 
 jugador_1 = input('¿Cuál es el nombre del jugador 1: ')
 jugador_2 = input('¿Cuál es el nombre del jugador 2: ')
