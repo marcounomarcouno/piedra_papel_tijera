@@ -25,26 +25,3 @@ elif (turno_1a == 1 and turno_2b == 3) or (turno_1a == 2 and turno_2b == 1) or (
     print('Gana ' + jugador_1 + ' ¡Felicidades!')
 else:
     print('Elige una opción válida')
-
-
-
-# if turno_1a == 1 and turno_2b == 1:
-#     print('Esto es un empate, ¡Qué reñida contienda!')
-# elif turno_1a == 1 and turno_2b == 2:
-#     print('Gana ' + jugador_2 + ' ¡Felicidades!')
-# elif turno_1a == 1 and turno_2b == 3:
-#     print('Gana ' + jugador_1 + ' ¡Felicidades!')
-# elif turno_1a == 2 and turno_2b == 2:
-#     print('Esto es un empate, ¡Qué reñida contienda!')
-# elif turno_1a == 2 and turno_2b == 3:
-#     print('Gana ' + jugador_2 + ' ¡Felicidades!')
-# elif turno_1a == 2 and turno_2b == 1:
-#     print('Gana ' + jugador_1 + ' ¡Felicidades!')
-# elif turno_1a == 3 and turno_2b == 3:
-#     print('Esto es un empate, ¡Qué reñida contienda!')
-# elif turno_1a == 3 and turno_2b == 1:
-#     print('Gana ' + jugador_2 + ' ¡Felicidades!')
-# elif turno_1a == 3 and turno_2b == 2:
-#     print('Gana ' + jugador_1 + ' ¡Felicidades!')
-# else:
-#     print('Elige una opción válida')
